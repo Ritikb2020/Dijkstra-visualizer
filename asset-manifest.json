@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Dijkstra-visualizer/static/css/main.973b96fe.css",
+    "main.js": "/Dijkstra-visualizer/static/js/main.43c0c968.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Dijkstra-visualizer/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Dijkstra-visualizer/index.html",
+    "main.973b96fe.css.map": "/Dijkstra-visualizer/static/css/main.973b96fe.css.map",
+    "main.43c0c968.js.map": "/Dijkstra-visualizer/static/js/main.43c0c968.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Dijkstra-visualizer/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.973b96fe.css",
+    "static/js/main.43c0c968.js"
+  ]
+}
